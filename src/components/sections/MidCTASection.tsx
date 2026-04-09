@@ -26,7 +26,7 @@ export default function MidCTASection({
           <CTAButton
             href={SITE_CONFIG.contactUrl}
             size="lg"
-            className="bg-white text-blue-700 hover:bg-gray-100"
+            variant="secondary"
           >
             まずは話を聞く
           </CTAButton>
